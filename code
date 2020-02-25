@@ -1,0 +1,33 @@
+#include <stdio.h>
+
+//structure for binary trees
+struct node
+{
+    int value;
+    struct node* left;
+    struct node* right;
+    
+}
+
+//function for adding node
+
+//function for deleting node
+
+//keeping track of indices will be very important
+
+int main(void) {
+    
+    int n;//no. of queries
+    scanf("%d", &n);
+    int i;//counter
+    for(i=1; i<=n; i++)
+    {
+        char op[3];
+        fgets(op, 3, stdin);
+        print
+        
+    }
+    
+	return 0;
+}
+
